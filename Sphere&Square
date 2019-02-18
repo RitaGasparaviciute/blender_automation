@@ -8,7 +8,7 @@ from bpy import data
 username ='rita'
 
 
-#blenderis neleidzia paleist auto scriptingo su skriptu... reikia manually leisti
+#blenderis neleidzia paleist auto scriptingo su skriptu... reikia manually leisti, kartais atidaro apacioj esancia uzkomentuota eilute
 #bpy.ops.screen.userpref_show()
 
 class blue_square:
@@ -16,7 +16,7 @@ class blue_square:
 color = bpy.data.materials.new('blue')
 color.diffuse_color = (0.0,0.0,10.0)
 color.diffuse_shader = 'LAMBERT'
-color.diffuse_intensity = 5.0
+color.diffuse_intensity = 10.0
 
 square = bpy.data.objects['Plane']
 
@@ -32,7 +32,7 @@ class red_sphere:
 color = bpy.data.materials.new('red')
 color.diffuse_color = (10.0,0.0,0.0)
 color.diffuse_shader = 'LAMBERT'
-color.diffuse_intensity = 5.0
+color.diffuse_intensity = 10.0
 
 sphere = bpy.data.objects['Sphere']
 
