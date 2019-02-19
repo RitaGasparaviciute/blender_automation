@@ -17,7 +17,7 @@ Blender 2.79, Ubuntu 18.04, Python 3, Java, Shell, caffeine. Alot.
 *Python* skriptas.
 *.sh* skriptas veikiantis su Ubuntu.
 
-# (Failas Sphere_Square.py) turi būti */home/'useris'* direktorijoj, norint, kad veiktų su Shell skriptu
+ Failas Sphere_Square.py turi būti */home/'useris'* direktorijoj, norint, kad veiktų su Shell skriptu
   Paleisti per terminalą su komanda *bash auto_start.sh* 
 
 
