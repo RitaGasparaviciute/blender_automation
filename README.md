@@ -5,7 +5,7 @@ Atidaryti Blender su Java. (Kodas kompiliuojasi be klaidų, bet neveikia)
 *Extra* Shell skriptas, kuris veikia su Ubuntu. (%99.9 veikia)
 Nupiešti sferą ir kvadratą.(%99.9)
 Pridėti jiems spalvą. (99.8% veikia)
-Išsaugoti viską į .blend failą. (50/50 veikia, needs maintenece)
+Išsaugoti viską į .blend failą. (50/50 veikia, needs maintenance)
 # Rezultatas:
 Kartais perkraunant Benderį spalvos neatitinka jiem priskirtų reikšmių, kartais failai išsisaugo, kartais ne.
 Daug bug'ų paties Blender'io moduluose.
